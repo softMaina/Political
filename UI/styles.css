@@ -1,5 +1,5 @@
 /* nav */
-nav ul {
+ nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -7,11 +7,11 @@ nav ul {
     background-color: #4CAF50;
   }
   
- nav ul li {
+  nav ul li {
     float: left;
   }
   
- nav ul li a {
+  nav ul li a {
     display: block;
     color: white;
     text-align: center;
@@ -20,7 +20,7 @@ nav ul {
   }
   
   /* Change the link color to #111 (black) on hover */
- nav ul li a:hover {
+  nav ul li a:hover {
     background-color: #111;
   }
   * {
@@ -32,6 +32,12 @@ nav ul {
     right:0;
     font-size:50px;
     
+  }
+  .rightclass{
+    float:right;
+  }
+  .leftclass{
+    float:left;
   }
 
   /* end of nav */
