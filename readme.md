@@ -13,7 +13,7 @@ An admin adds political parties and offices
 * Javascript
 
 ## Deployment
-(https://softMaina.github.io/political/UI)
+ https://softMaina.github.io/political/UI/index.html 
 
 ## Author
 Allan Maina
